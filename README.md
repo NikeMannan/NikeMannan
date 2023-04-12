@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikeMannan
 - 👀 I’m interested in php and laravel framework
-- 🌱 I’m currently learning backend
+- 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me coming soon...
 
